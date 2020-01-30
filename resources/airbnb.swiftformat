@@ -6,4 +6,4 @@
 --swiftversion 5
 
 # rules
---rules redundantParens,redundantSelf,sortedImports,strongifiedSelf,trailingCommas,trailingSpace
+--rules redundantParens,redundantReturn,redundantSelf,sortedImports,strongifiedSelf,trailingCommas,trailingSpace
